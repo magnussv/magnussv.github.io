@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The essentials
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Work**: Since October 2007, I have been working in various roles as a statistician, data analyst, business intelligence manager and data scientist at [Sony Mobile], located in Lund, Sweden. I have worked in many crossfunctional teams with everything from development and implementation of forecasting methods in the warranty claim area, to experimental design, statistical analysis and reporting of A/B experiments, as well as holding an educational program about working with data according to the cross-industry standard for data mining ([CSISP-DM]). Other fun projects include, for example, development of technologies for early detection of quality problems, and managing development and deployment of multidimensional OLAP cube projects such as to optimize aftermarket supply chain management as well as lead time investigation in the global service center repair structure.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Education**: I majored in Statistics at Lund university.
 
-What else do you need?
+**Hobbies**: I really like to try out new stuff in [R] for fun on my spare time and I developed some [Shiny] apps during the years. From statistics about the swedish elit soccer league, Allsvenskan, to election polls as well as very important apps such as 'dogdrinkr' to catch anomalies in the daily water intake of dogs! *But* I do not sitt on my *butt* all day. I also fill my days with bouldering, traditional strength and conditioning, discgolf and cycling occasionally.
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Sony Mobile]: https://www.sonymobile.com/
+[CSISP-DM]: https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
+[R]: https://www.r-project.org/
+[Shiny]: https://shiny.rstudio.com/
