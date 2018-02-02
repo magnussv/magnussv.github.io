@@ -8,7 +8,7 @@ subtitle: The essentials
 
 **Education**: I majored in Statistics at Lund university.
 
-**Hobbies**: I really like to try out new stuff in [R] for fun on my spare time and I developed some [Shiny] apps during the years. From statistics about the swedish elit soccer league, Allsvenskan, to election polls as well as very important apps such as 'dogdrinkr' to catch anomalies in the daily water intake of dogs! *But* I do not sitt on my *butt* all day. I also fill my days with bouldering, traditional strength and conditioning, discgolf and cycling occasionally.
+**Hobbies**: I really like to try out new stuff in [R] for fun on my spare time and I have developed some [Shiny] apps during the years. From statistics about the swedish elit soccer league, Allsvenskan, to election polls as well as very important apps such as 'dogdrinkr' to catch anomalies in the daily water intake of dogs! *But* I do not sitt on my *butt* all day. I also fill my days with bouldering, traditional strength and conditioning, discgolf and cycling occasionally.
 
 
 [Sony Mobile]: https://www.sonymobile.com/
