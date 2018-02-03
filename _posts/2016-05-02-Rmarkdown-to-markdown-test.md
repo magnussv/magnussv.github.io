@@ -1,8 +1,7 @@
 ---
 output:
   md_document:
-    variant: markdown
-  mathjax: true
+    variant: kramdown
 ---
 
 Get data
