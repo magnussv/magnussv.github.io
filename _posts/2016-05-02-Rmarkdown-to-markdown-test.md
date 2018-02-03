@@ -41,6 +41,8 @@ image(volcano, col = viridis(200, option = "A"))
 ![figure caption is this what it is!
 \label{figure_vol}](1-example1_files/figure-markdown/unnamed-chunk-3-1.png)
 
+[![ggplot2 marginal plots basic idea]({{ site.url }}/img/blog/unnamed-chunk-3-1.png)]({{ site.url }}/img/blog/unnamed-chunk-3-1.png)
+
 LaTeX coding
 ------------
 
