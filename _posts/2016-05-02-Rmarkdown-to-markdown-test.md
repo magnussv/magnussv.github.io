@@ -44,6 +44,17 @@ image(volcano, col = viridis(200, option = "A"))
 LaTeX coding
 ------------
 
+Let’s try a first example. Here’s a dummy equation:
+$$a^2 + b^2 = c^2$$
+
+and 
+$$ \mathsf{Data = PCs} \times \mathsf{Loadings} $$
+better is
+\\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]
+and this is quite nice,
+$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
+.
+
 \begin{equation}
 \label{eq-abc}
 a + b = c
