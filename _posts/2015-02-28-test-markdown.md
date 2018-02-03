@@ -36,6 +36,8 @@ var foo = function(x) {
 foo(3)
 ~~~
 
+But what about adding a formulas like this $$a^2 + b^2 = c^2$$ will it work?
+
 And here is the same code with syntax highlighting:
 
 ```javascript
