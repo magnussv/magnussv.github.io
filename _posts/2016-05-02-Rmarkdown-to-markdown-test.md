@@ -2,6 +2,7 @@
 output:
   md_document:
     variant: markdown
+  mathjax: true
 ---
 
 Get data
