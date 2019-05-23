@@ -25,9 +25,11 @@ description: Welcome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://deanattali.com/beautiful-jekyll/"
+    - Install R: "https://cran.r-project.org/"
+    - RStudio: "https://www.rstudio.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - GitHub Pages: "://pages.github.com/"
+    - Beautiful Jekyll: "https://deanattali.com/beautiful-jekyll/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
