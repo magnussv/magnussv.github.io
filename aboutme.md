@@ -7,7 +7,7 @@ subtitle: The essentials
 **Work**: I have been working since 2007 in various roles as a Statistician, Data Analyst, Business Intelligence Project Manager and Data Scientist. I have a talent to provide organizations with greater opportunities to answer complex questions through a data-driven approach. Wide-ranging experience with problem solving, especially within the mobile phone industry and in the Customer Services and Quality Management related areas. I have worked in many crossfunctional teams with everything from development and implementation of forecasting methods in the warranty claim area, to experimental design, statistical analysis and reporting of A/B experiments, as well as holding an educational program about working with data according to the cross-industry standard for data mining ([CSISP-DM]). Other fun projects include, for example, development of technologies for early detection of quality problems, and managing development and deployment of multidimensional OLAP cube projects such as to optimize aftermarket supply chain management as well as lead time investigation in the global service center repair structure. Check out my [LinkedIn] profile for more info.
 
 
-*Key skills*: 
+*Key skills*:\n
 • Statistics and analytical skills - extensive knowledge, both formal and through work experience. For example within forecasting, prediction, machine learning, A/B-testing, econometrics, exploratory data analysis, data mining, big data and data visualization.
 
 • R programming - more than 10k hours of coding in one of the main programming languages for data analysis.
