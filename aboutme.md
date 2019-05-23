@@ -26,7 +26,7 @@ I’m driven by curiosity and my willingness to learn new things. I have develop
 
 I'm aiming at expanding my role as a senior Data Analyst/Data Scientist. I’m interested in working with both data analytics that supports an organization to take the right decisions, and in development of end consumer facing products/services where data analytics expertise is needed.
 
-**Education**: Master of Science (M.Sc) in Statistics from Lund University.
+**Education**: Master of Science (M.Sc.) in Statistics from Lund University.
 
 **Hobbies**: I have a great interest in history and psychology, to understand the present and where we are going, with eg. Artificial Intelligence. I really like to try out new stuff in [R] for fun on my spare time and I have developed some [Shiny] apps during the years. From statistics about the swedish elit soccer league, Allsvenskan, to election polls as well as very important apps such as 'dogdrinkr' to catch anomalies in the daily water intake of dogs! I activate myself through bouldering, strength & conditioning, yoga and occasionally wave surfing, discgolf and cycling. Cooking followed by a dinner party and interesting discussions around the table is also close to my heart.
 
