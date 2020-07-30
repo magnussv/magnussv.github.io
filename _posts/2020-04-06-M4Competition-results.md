@@ -14,7 +14,7 @@ Results from the [M4 Competition](https://www.sciencedirect.com/science/article/
 It is more or less always, in the longrun, a good idea to combine forecasts from multiple methods into one final combined forecast. You will likely get the highest forecast accuracy this way. How you decide to combine them may differ, and there are better and worse ways to do this, but most of them are better than not combining at all.
 
 
-**Go hybrid of you want to reach state-of-the-art accuracy**<br/>
+**Go hybrid if you want to reach state-of-the-art accuracy**<br/>
 The winning method was [Smyl's hybrid approach](https://www.sciencedirect.com/science/article/pii/S0169207019301153) that utilized both statistical and machine learning features. Make no mistake, this is a truly hybrid approach, not a combination of pure statistical and machine learning forecasts. The precision of the submitted prediction intervals where amazing as well. I view this method as the most innovative and brilliant output from the whole competition. This will probably be a major building block in both future practice and development work.
 
 
