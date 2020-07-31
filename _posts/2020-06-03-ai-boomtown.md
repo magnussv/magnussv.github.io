@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The AI boomtown
-subtitle: and eagerness for the new cool stuff
-bigimg: /img/path.jpg
+subtitle: And eagerness for the new cool stuff
+bigimg: /img/NN.jpg
 tags: [research, machine learning, AI]
 ---
 
